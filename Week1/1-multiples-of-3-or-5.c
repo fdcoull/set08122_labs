@@ -1,5 +1,15 @@
 #include <stdio.h>
 
+/*
+
+Week 1 task: Solve problems from projecteuler.net
+
+Problem 1
+
+https://projecteuler.net/problem=1
+
+*/
+
 int main(int argc, char **argv) {
 	int max = 1000;
 
