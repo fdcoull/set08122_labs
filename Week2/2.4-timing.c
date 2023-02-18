@@ -28,6 +28,7 @@ int main()
 
   for (i = 0; i < iterations; i++)
   {
+    //Run timer and function
     printf("Start: %d \n", (int) (t = clock()));
     code();
     printf("Stop: %d \n", (int) (t = clock() - t));
